@@ -13,3 +13,6 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 # some comment timepass
+# Grind75 problems
+#https://www.techinterviewhandbook.org/grind75
+
