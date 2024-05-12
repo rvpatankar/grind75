@@ -16,3 +16,8 @@ Cargo.lock
 # Grind75 problems
 #https://www.techinterviewhandbook.org/grind75
 
+
+
+# Added by cargo
+
+/target
