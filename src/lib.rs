@@ -6,3 +6,6 @@ pub use Grind_02_Add_Two_Numbers::*;
 
 pub mod Grind_03_Longest_Substr;
 pub use Grind_03_Longest_Substr::*;
+
+pub mod Grind_03_Median_SortedArrays;
+pub use Grind_03_Median_SortedArrays::*;
