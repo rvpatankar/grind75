@@ -2,23 +2,16 @@ use grind75::*;
 //Grind_02_Add_Two_Numbers::*;
 
 fn main() {
-    //let l1 = vec_to_node(vec![2, 4, 3]);
-    //let l2 = vec_to_node(vec![5, 6, 4]);
-    //let l1 = vec_to_node(vec![9,9,9,9,9,9,9]);
-    //let l2 = vec_to_node(vec![9,9,9,9]);
-    //let l3 = add_two_numbers(l1, l2);
-    //print_listnode(l3);
-    //let mut v = vec!['a', 'b', 'c', 'd', 'e'];
-    //println!("before:{:?}", v);
-    //v = v.split_off(2);
-    //println!("after:{:?}", v);
-
-    //let s ="abcdskaas".to_string();
-    //println!("{}", length_of_longest_substring(s));
-   
-    let v1 = vec![1,2];
-    let v2 = vec![3];
-    println!("sol:{}", find_median_sorted_arrays(v1,v2));
+    //println!("{}", is_palindrome(&vec!['a', 'b', 'b', 'a']));
+    //println!("{}", is_palindrome(&vec!['b', 'b']));       
+    //println!("{}", is_palindrome(&vec!['a', 'b', 'c', 'b', 'a']));       
+    //println!("{}", is_palindrome(&vec!['a', 'b', 'c', 'd']));
+    //println!("{}", longest_palindrome("babad".to_string()));
+    println!("{}", longest_palindrome("cbcbccde".to_string()));
+    //println!("{}", longest_palindrome("cbbd".to_string()));
+    //println!("answer:  {}", longest_palindrome("a".to_string()));
+    //let l = "mwwfjysbkebpdjyabcfkgprtxpwvhglddhmvaprcvrnuxifcrjpdgnktvmggmguiiquibmtviwjsqwtchkqgxqwljouunurcdtoeygdqmijdympcamawnlzsxucbpqtuwkjfqnzvvvigifyvymfhtppqamlgjozvebygkxawcbwtouaankxsjrteeijpuzbsfsjwxejtfrancoekxgfyangvzjkdskhssdjvkvdskjtiybqgsmpxmghvvicmjxqtxdowkjhmlnfcpbtwvtmjhnzntxyfxyinmqzivxkwigkondghzmbioelmepgfttczskvqfejfiibxjcuyevvpawybcvvxtxycrfbcnpvkzryrqujqaqhoagdmofgdcbhvlwgwmsmhomknbanvntspvvhvccedzzngdywuccxrnzbtchisdwsrfdqpcwknwqvalczznilujdrlevncdsyuhnpmheukottewtkuzhookcsvctsqwwdvfjxifpfsqxpmpwospndozcdbfhselfdltmpujlnhfzjcgnbgprvopxklmlgrlbldzpnkhvhkybpgtzipzotrgzkdrqntnuaqyaplcybqyvidwcfcuxinchretgvfaepmgilbrtxgqoddzyjmmupkjqcypdpfhpkhitfegickfszermqhkwmffdizeoprmnlzbjcwfnqyvmhtdekmfhqwaftlyydirjnojbrieutjhymfpflsfemkqsoewbojwluqdckmzixwxufrdpqnwvwpbavosnvjqxqbosctttxvsbmqpnolfmapywtpfaotzmyjwnd";
+    //println!("answer:  {}", longest_palindrome(l.to_string()));
     /*
     let mut i = 0;
     let mut j = 0;
