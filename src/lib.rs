@@ -12,3 +12,6 @@ pub use Grind_03_Median_SortedArrays::*;
 
 pub mod Grind_05_Longest_Palindrome;
 pub use Grind_05_Longest_Palindrome::*;
+
+pub mod Grind_06_Zigzag_Convertion;
+pub use Grind_06_Zigzag_Convertion::*;

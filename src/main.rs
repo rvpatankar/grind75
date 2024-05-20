@@ -2,16 +2,14 @@ use grind75::*;
 //Grind_02_Add_Two_Numbers::*;
 
 fn main() {
-    //println!("{}", is_palindrome(&vec!['a', 'b', 'b', 'a']));
-    //println!("{}", is_palindrome(&vec!['b', 'b']));       
-    //println!("{}", is_palindrome(&vec!['a', 'b', 'c', 'b', 'a']));       
-    //println!("{}", is_palindrome(&vec!['a', 'b', 'c', 'd']));
-    //println!("{}", longest_palindrome("babad".to_string()));
-    println!("{}", longest_palindrome("cbcbccde".to_string()));
-    //println!("{}", longest_palindrome("cbbd".to_string()));
-    //println!("answer:  {}", longest_palindrome("a".to_string()));
-    //let l = "mwwfjysbkebpdjyabcfkgprtxpwvhglddhmvaprcvrnuxifcrjpdgnktvmggmguiiquibmtviwjsqwtchkqgxqwljouunurcdtoeygdqmijdympcamawnlzsxucbpqtuwkjfqnzvvvigifyvymfhtppqamlgjozvebygkxawcbwtouaankxsjrteeijpuzbsfsjwxejtfrancoekxgfyangvzjkdskhssdjvkvdskjtiybqgsmpxmghvvicmjxqtxdowkjhmlnfcpbtwvtmjhnzntxyfxyinmqzivxkwigkondghzmbioelmepgfttczskvqfejfiibxjcuyevvpawybcvvxtxycrfbcnpvkzryrqujqaqhoagdmofgdcbhvlwgwmsmhomknbanvntspvvhvccedzzngdywuccxrnzbtchisdwsrfdqpcwknwqvalczznilujdrlevncdsyuhnpmheukottewtkuzhookcsvctsqwwdvfjxifpfsqxpmpwospndozcdbfhselfdltmpujlnhfzjcgnbgprvopxklmlgrlbldzpnkhvhkybpgtzipzotrgzkdrqntnuaqyaplcybqyvidwcfcuxinchretgvfaepmgilbrtxgqoddzyjmmupkjqcypdpfhpkhitfegickfszermqhkwmffdizeoprmnlzbjcwfnqyvmhtdekmfhqwaftlyydirjnojbrieutjhymfpflsfemkqsoewbojwluqdckmzixwxufrdpqnwvwpbavosnvjqxqbosctttxvsbmqpnolfmapywtpfaotzmyjwnd";
-    //println!("answer:  {}", longest_palindrome(l.to_string()));
+    //println!("{}", convert("PAYPALISHIRING".to_string(), 3));
+    //println!("{}", convert("PAYPALISHIRING".to_string(), 4));
+    //println!("{}", convert("PAYPALISHIRING".to_string(), 5));
+    //println!("{}", convert("PAYPALISHIRING".to_string(), 6));
+    //println!("{}", convert("PAYPALISHIRING".to_string(), 7));
+    //println!("{}", convert("A".to_string(), 1));
+    println!("{}", convert("PAYPALISHIRING".to_string(), 1));
+    //println!("{}", convert("PAYPALISHIRING".to_string(), 2));
     /*
     let mut i = 0;
     let mut j = 0;
