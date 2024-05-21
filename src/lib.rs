@@ -15,3 +15,9 @@ pub use Grind_05_Longest_Palindrome::*;
 
 pub mod Grind_06_Zigzag_Convertion;
 pub use Grind_06_Zigzag_Convertion::*;
+
+pub mod Grind_07_Reverse_Integer;
+pub use Grind_07_Reverse_Integer::*;
+
+pub mod Grind_08_String_To_Integer;
+pub use Grind_08_String_To_Integer::*;
