@@ -27,7 +27,7 @@ pub fn length_of_longest_substring(s: String) -> i32 {
     let mut maxlen = 0;
     let mut right = 0;
     let mut left = 0;
-    let mut sset = HashSet::new();
+    let    let mut sset = HashSet::new();
     while right < s.len() {
         if !sset.contains(&s.chars().nth(right).unwrap()) {
             sset.insert(s.chars().nth(right).unwrap());

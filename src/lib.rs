@@ -21,3 +21,9 @@ pub use Grind_07_Reverse_Integer::*;
 
 pub mod Grind_08_String_To_Integer;
 pub use Grind_08_String_To_Integer::*;
+
+pub mod Grind_09_Palindrome_Number;
+pub use Grind_09_Palindrome_Number::*;
+
+pub mod Grind_10_RegEx_Matching;
+pub use Grind_10_RegEx_Matching::*;

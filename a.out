@@ -1,0 +1,12 @@
+3 ... retval=true, i=1, j=1
+3 ... retval=true, i=2, j=2
+1 ... retval=true, i=3, j=2
+1 ... retval=true, i=4, j=2
+2 ... retval=true, i=4, j=4
+3 ... retval=true, i=5, j=5
+1 ... retval=true, i=6, j=5
+1 ... retval=true, i=7, j=5
+2 ... retval=true, i=7, j=7
+2 ... retval=true, i=7, j=9
+5 ... retval=false, i=7, j=9
+ retval = false

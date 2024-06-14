@@ -25,6 +25,7 @@ pub fn reverse(x: i32) -> i32 {
     } else {
         retval = retval + (num % 10);
     }
+
     retval
 }
 
